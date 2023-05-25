@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298355899069",
+    "project_id": "bugreportapp-a2fe2",
+    "storage_bucket": "bugreportapp-a2fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298355899069:android:a14dfa9b9f76ca661b55d4",
+        "android_client_info": {
+          "package_name": "com.example.bug_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298355899069-24vtjsdsc2j0mngu0mjjdsg4g476kdp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qNAstljHEruPh4fqWicCw7ttpyeGnuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298355899069-24vtjsdsc2j0mngu0mjjdsg4g476kdp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
